@@ -1,0 +1,6 @@
+sudo npm install --save react-router
+sudo npm install --save react-redux
+sudo npm install --save redux
+sudo npm install --save axios
+sudo npm install --save redux-promise
+sudo npm install --save redux-form@4.1.3
